@@ -15,7 +15,7 @@ Once in the game, you can run any of the following commands (case sensitive)
 |command|use|
 |-|-|
 |`who`|Displays which player's turn it is|
-|`term`|Terminates the program with exit code 1`|
+|`term`|Terminates the program with exit code 1|
 |`resign`|The current player resigns, causing the other player to win and the game to end|
 |`view`|Shows the current board. The first string shows the coordinate of the centre of the 7x7 square not covered by mist. The second string shows the contents of this 7x7 'hole' in the mist|
 |`place <col><row>`|Allows a player to complete their turn. If the move is successful, there will be no output. You can play in the mist.|
